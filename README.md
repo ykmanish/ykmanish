@@ -17,7 +17,7 @@
 
 ## About
 
-Software engineer with **2.6 years** of full-stack experience, currently pursuing an **MBA in Cybersecurity Management** at NFSU, Gujarat. I build production-grade web products with security baked into the architecture — RBAC, encryption, audit trails, and threat-aware design are part of how I ship, not afterthoughts.
+Software engineer with **2.6 years** of full-stack experience, currently pursuing an **MBA in Cybersecurity Management** at NFSU, Gujarat. I build production-grade web products with security baked into the architecture - RBAC, encryption, audit trails, and threat-aware design are part of how I ship, not afterthoughts.
 
 Independently designed and deployed a **42-module ERP platform on AWS** covering HR, Finance, and Operations. Built solo from database schema to cloud deployment.
 

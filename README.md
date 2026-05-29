@@ -1,8 +1,9 @@
 <div align="center">
 
-<img width="1757" height="519" alt="image" src="https://github.com/user-attachments/assets/0d97d1a5-b1d0-4e2f-a0a8-cfe6bca3561d" />
+<img width="1745" height="513" alt="image" src="https://github.com/user-attachments/assets/42e3e9a7-eb4e-4f70-bf6a-73f92a5481cf" />
 
 
+<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/%20%20LinkedIn%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ykmanish)&nbsp;

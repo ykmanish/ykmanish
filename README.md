@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d2818,100:163a25&height=260&section=header&text=Manishkumar%20Yadav&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cybersecurity%20Practitioner&descAlignY=60&descAlign=50&descColor=86efac&animation=fadeIn" width="100%"/>
+<img width="1757" height="519" alt="image" src="https://github.com/user-attachments/assets/0d97d1a5-b1d0-4e2f-a0a8-cfe6bca3561d" />
+
 
 <br/>
 

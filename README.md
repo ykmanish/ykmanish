@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2818,100:000000&height=280&section=header&text=Manishkumar%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Engineer%20%C2%B7%20Cybersecurity%20Practitioner&descAlignY=62&descColor=4ade80&animation=fadeIn&stroke=1a5c34&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d2818,100:163a25&height=260&section=header&text=Manishkumar%20Yadav&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cybersecurity%20Practitioner&descAlignY=60&descAlign=50&descColor=86efac&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ykmanish)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ykmanish)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ymanishkumar9790@gmail.com)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Pune%2C%20India-📍-2d6a4f?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/%20%20LinkedIn%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ykmanish)&nbsp;
+[![GitHub](https://img.shields.io/badge/%20%20GitHub%20%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykmanish)&nbsp;
+[![Gmail](https://img.shields.io/badge/%20%20Gmail%20%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymanishkumar9790@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/%20%20Pune%2C%20India%20%20-163a25?style=for-the-badge&logo=googlemaps&logoColor=86efac)](#)
+
+<br/>
 
 </div>
 
@@ -88,6 +90,6 @@ Independently designed and deployed a **42-module ERP platform on AWS** covering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2818,100:000000&height=120&section=footer&text=Ship%20fast.%20Ship%20secure.&fontSize=24&fontColor=4ade80&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163a25,60:0d2818,100:0a0a0a&height=140&section=footer&text=Ship%20fast.%20Ship%20secure.&fontSize=26&fontColor=86efac&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>

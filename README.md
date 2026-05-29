@@ -128,8 +128,4 @@ Pursuing an MBA in Cybersecurity Management at National Forensic Sciences Univer
 
 <br/>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163a25,60:0d2818,100:0a0a0a&height=140&section=footer&text=Ship%20fast.%20Ship%20secure.&fontSize=26&fontColor=86efac&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-</div>

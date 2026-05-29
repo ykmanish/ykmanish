@@ -137,11 +137,18 @@ const manish = {
 
 <div align="center">
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ykmanish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=ffffff)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ykmanish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=ffffff&count_private=true" alt="Manish's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykmanish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=ffffff&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykmanish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ykmanish&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=1d9e75)
+<img src="https://streak-stats.demolab.com?user=ykmanish&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=1d9e75&dates=ffffff&sideLabels=1d9e75&sideNums=ffffff&stroke=1d9e75" alt="GitHub Streak" width="600"/>
 
 </div>
 

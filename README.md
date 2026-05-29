@@ -1,134 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,50:0f6e56,100:0a0a0a&height=220&section=header&text=Manishkumar%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=⚡%20Full-Stack%20Engineer%20%20%7C%20%20🔐%20Cybersecurity%20Enthusiast&descAlignY=65&descColor=5dcaa5&descSize=18" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=20&section=header" width="100%"/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗                 ║
+║    ████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║                 ║
+║    ██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║                 ║
+║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║                 ║
+║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║                 ║
+║    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝                ║
+║                                                                      ║
+║           Full-Stack Engineer  ×  Cybersecurity Practitioner         ║
+║                        Pune, India  🇮🇳                               ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&lines=→+Building+secure%2C+scalable+full-stack+products;→+Shipped+a+42-module+ERP+solo+on+AWS+%E2%98%81%EF%B8%8F;→+MBA+in+Cybersecurity+%40+NFSU+%F0%9F%94%90;→+SOC+%7C+Threat+Hunting+%7C+Malware+Analysis;→+RBAC+%7C+2FA+%7C+AES+%7C+JWT+%7C+Audit+Logging)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+secure+full-stack+products+%F0%9F%9A%80;42-module+ERP+shipped+solo+on+AWS+%E2%98%81%EF%B8%8F;MBA+in+Cybersecurity+%40+NFSU+%F0%9F%94%90;RBAC+%7C+2FA+%7C+AES+%7C+SOC+%7C+Threat+Hunting)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ykmanish-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ykmanish)
-[![GitHub](https://img.shields.io/badge/GitHub-ykmanish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ykmanish)
-[![Gmail](https://img.shields.io/badge/Gmail-ymanishkumar9790-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymanishkumar9790@gmail.com)
-[![Location](https://img.shields.io/badge/Pune%2C%20India-📍-1d9e75?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FF9C?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/ykmanish)
+[![GitHub](https://img.shields.io/badge/-GitHub-00FF9C?style=flat-square&logo=github&logoColor=black)](https://github.com/ykmanish)
+[![Gmail](https://img.shields.io/badge/-Gmail-00FF9C?style=flat-square&logo=gmail&logoColor=black)](mailto:ymanishkumar9790@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=ykmanish&color=00FF9C&style=flat-square&label=Profile+Views)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-```ts
-const manish = {
-  role        : "Full-Stack Engineer  +  Cybersecurity Practitioner",
-  experience  : "2.6 years — React, Next.js, Node.js, AWS",
-  currentFocus: "MBA in Cybersecurity Management @ NFSU, Gujarat",
-  shipped     : "42-module ERP platform on AWS — solo, end-to-end",
-  superpowers : ["Secure System Design", "AI-Powered Apps", "Zero-Touch CI/CD"],
-  hobbies     : ["Chess ♟️", "Open Source", "Technical Reading", "Music 🎵"],
-};
+## `whoami`
+
+```bash
+$ cat about.json
+{
+  "name"    : "Manishkumar Yadav",
+  "role"    : "Full-Stack Engineer + Cyber Practitioner",
+  "exp"     : "2.6 yrs — React, Next.js, Node, AWS",
+  "studying": "MBA Cybersecurity @ NFSU, Gujarat",
+  "shipped" : "42-module ERP, solo, AWS, end-to-end",
+  "focus"   : ["Secure APIs", "AI Apps", "Zero-Touch CI/CD"],
+  "hobbies" : ["Chess ♟", "Open Source", "Music 🎵"]
+}
 ```
 
-> Engineer who builds full-stack products **and** thinks like an attacker.
-> RBAC, audit logging, 2FA, AES encryption — security isn't an afterthought, it's in the architecture.
+<br clear="right"/>
 
 ---
 
-## 🌐 Frontend
+## `ls skills/`
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+**`~/frontend`**
 
-## ⚙️ Backend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-ff6c37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**`~/backend`**
 
-## 🗄️ Databases
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+**`~/databases`**
 
-## ☁️ Cloud & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/AWS_EC2-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569a31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_CodePipeline-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+**`~/cloud-devops`**
 
-## 🔐 Security
-
-<p>
-  <img src="https://img.shields.io/badge/RBAC-1d9e75?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AES_Encryption-0f6e56?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth2-4285f4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_2FA-4285f4?style=for-the-badge&logo=googleauthenticator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Audit_Logging-1d9e75?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4b0082?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=5ac331"/>
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔐 Cybersecurity — NFSU Labs
+## `cat security.md`
 
-| Domain | Tools & Skills |
-|--------|---------------|
-| 🛡️ **SOC L1 Operations** | Splunk, Wazuh — alert triage, log correlation, detection rule tuning |
-| 🕵️ **Threat Hunting** | Kali Linux, Metasploit — IOC identification, MITRE ATT&CK mapping |
-| 🦠 **Malware Analysis** | Static & dynamic analysis, attacker movement tracing |
-| 🌐 **Network Security** | Wireshark (packet capture), Nmap (port scanning) — telecom-style labs |
-| 🖥️ **EDR / NDR** | Endpoint telemetry, behavioural detection, false-positive reduction |
-| 📋 **Incident Response** | IR workflows, root-cause analysis, evidence documentation |
+> 🔐 *Security isn't bolted on. It's baked in.*
+
+**`~/security-tools`**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF9C)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**`~/security-skills`**
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  DOMAIN                    TOOLS & COVERAGE                         │
+├─────────────────────────────────────────────────────────────────────┤
+│  🛡  SOC L1 Operations    │ Splunk · Wazuh · Log Correlation        │
+│  🕵  Threat Hunting        │ Kali · Metasploit · MITRE ATT&CK       │
+│  🦠  Malware Analysis      │ Static + Dynamic · IOC Identification  │
+│  🌐  Network Security      │ Wireshark · Nmap · Packet Inspection   │
+│  🖥  EDR / NDR             │ Endpoint Telemetry · Behavioural Detect│
+│  🔑  Secure Dev            │ RBAC · 2FA · AES · JWT · Audit Logs    │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Stats
+## `git log --stats`
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="center">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=ykmanish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=ffffff&count_private=true&rank_icon=github" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ykmanish&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff&count_private=true&rank_icon=github" height="165"/>
     </td>
-    <td align="center">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykmanish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=ffffff&langs_count=8&card_width=300" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykmanish&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF9C&text_color=ffffff&langs_count=8" height="165"/>
     </td>
   </tr>
 </table>
 
-<img width="580" src="https://streak-stats.demolab.com?user=ykmanish&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=1d9e75&dates=9fe1cb&sideLabels=9fe1cb&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=ykmanish&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&dates=aaaaaa&sideLabels=00FF9C&sideNums=ffffff&stroke=00FF9C" width="580"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ykmanish&theme=react-dark&bg_color=0d0d0d&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -136,8 +146,13 @@ const manish = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0a,50:0f6e56,100:0a0a0a&height=120&section=footer&text=Ship%20fast.%20Ship%20secure.%20Ship%20smart.&fontSize=20&fontColor=5dcaa5&animation=fadeIn" width="100%"/>
+```
+╔══════════════════════════════════════════════════════╗
+║   "Ship fast. Ship secure. Ship smart."              ║
+║                              — @ykmanish             ║
+╚══════════════════════════════════════════════════════╝
+```
 
-⭐ *If anything here was useful — a star goes a long way!*
+⭐ *Drop a star if something here helped you out!*
 
 </div>
